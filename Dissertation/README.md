@@ -1,5 +1,7 @@
 # **Exploring the Predictive Power of Semibetas in Asset Pricing**  
 
+Note: A detailed description of the project is present in the PDF file attached, same has been breifly described below
+
 ## **Introduction**  
 This project investigates the predictive power of semibetas in explaining asset returns, comparing them to traditional asset pricing models such as the Capital Asset Pricing Model (CAPM) and the Fama-French factors. The study decomposes market beta into four distinct semibetas and tests them in asset pricing models.  
 
