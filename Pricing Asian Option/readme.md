@@ -1,1 +1,1 @@
-[Project Instructions]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Instructions.pdf](https://github.com/mayank1690/Mayank-Projects/blob/main/Pricing%20Asian%20Option/Instructions.pdf))
+[Project Instructions](https://github.com/mayank1690/Mayank-Projects/blob/main/Pricing%20Asian%20Option/Instructions.pdf)
